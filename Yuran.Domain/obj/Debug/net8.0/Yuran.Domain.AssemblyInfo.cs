@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yuran.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59108b766f814f3791e6e8995b3723b9a82a524")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yuran.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yuran.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
