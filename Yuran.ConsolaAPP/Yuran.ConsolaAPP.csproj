@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -9,10 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Yuran.Domain\Yuran.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Database\" />
+    <ProjectReference Include="..\Yuran.Insfrastructure\Yuran.Insfrastructure.csproj" />
   </ItemGroup>
 
 </Project>
