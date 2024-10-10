@@ -1,0 +1,5 @@
+C:\Users\Yuran Mendes\source\repos\EF-SQLITE-UWP\Yuran.Domain\obj\Debug\net8.0\Yuran.Domain.csproj.AssemblyReference.cache
+C:\Users\Yuran Mendes\source\repos\EF-SQLITE-UWP\Yuran.Domain\obj\Debug\net8.0\Yuran.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuran Mendes\source\repos\EF-SQLITE-UWP\Yuran.Domain\obj\Debug\net8.0\Yuran.Domain.AssemblyInfoInputs.cache
+C:\Users\Yuran Mendes\source\repos\EF-SQLITE-UWP\Yuran.Domain\obj\Debug\net8.0\Yuran.Domain.AssemblyInfo.cs
+C:\Users\Yuran Mendes\source\repos\EF-SQLITE-UWP\Yuran.Domain\obj\Debug\net8.0\Yuran.Domain.csproj.CoreCompileInputs.cache
