@@ -5,6 +5,7 @@ namespace Yuran.Domain.Repositories
 {
     public interface IDestinoRepository : IRepository<Destino>
     {
+        Task<Destino> FindByDescriptionAsync(string? currentDescription);
         Task<Destino> FindByNameAsync(string Description);
     }
 }

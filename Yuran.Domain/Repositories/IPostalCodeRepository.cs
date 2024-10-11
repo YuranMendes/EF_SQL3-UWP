@@ -7,5 +7,6 @@ namespace Yuran.Domain.Repositories
     {
         Task<PostalCode> FindByNameAsync(String name);
         Task<List<PostalCode>> FindAllByNameStartedWithAsync(String name);
+        Task FindByIdAsync(string? postalCodeId);
     }
 }

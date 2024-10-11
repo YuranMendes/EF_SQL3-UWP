@@ -1,0 +1,12 @@
+
+dotnet ef database update
+
+dotnet build
+
+dotnet ef migrations add InitialCreate
+
+#obs remover todas as tabelas da base de dados antes fazer o update 
+
+dotnet ef database update
+
+dotnet ef migrations remove
